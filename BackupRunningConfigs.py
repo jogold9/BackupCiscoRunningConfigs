@@ -2,6 +2,7 @@
 #Backs up switch running configurations to separate local files
 #Prequisite: List the IP addresses of all your switches in Switches.py, one IP address per line
 #Store Switches.py in the same directory as this script
+#Based on script in David Bombai Udemy.com course Python Programming for Cisco Network Engineers
 
 import getpass
 import sys
